@@ -1,0 +1,60 @@
+.image-container {
+  position: relative;
+  left: 4px;
+  top: -28px;
+}
+
+.content-wrapper {
+  display: flex;
+  align-items: baseline;
+}
+
+.my-element {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  width: 600px;
+  height: 20px;
+  background: #6f8e74;
+  border: 1px solid #000000;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.battery-tanaman {
+  position: absolute; /* Position the mini image absolutely */
+  width: auto; /* Adjust the width of the mini image */
+  height: auto; /* Preserve the aspect ratio of the mini image */
+  top: 60px; /* Adjust the top position of the mini image */
+  right: 500px; /* Adjust the right position of the mini image */
+}
+
+.battery-makanan {
+  position: absolute; /* Position the mini image absolutely */
+  width: auto; /* Adjust the width of the mini image */
+  height: auto; /* Preserve the aspect ratio of the mini image */
+  top: 60px; /* Adjust the top position of the mini image */
+  right: 336px; /* Adjust the right position of the mini image */
+}
+
+.battery-organik {
+  position: absolute; /* Position the mini image absolutely */
+  width: auto; /* Adjust the width of the mini image */
+  height: auto; /* Preserve the aspect ratio of the mini image */
+  top: 60px; /* Adjust the top position of the mini image */
+  right: 175px; /* Adjust the right position of the mini image */
+}
+
+.battery-residu {
+  position: absolute; /* Position the mini image absolutely */
+  width: auto; /* Adjust the width of the mini image */
+  height: auto; /* Preserve the aspect ratio of the mini image */
+  top: 60px; /* Adjust the top position of the mini image */
+  right: 10px; /* Adjust the right position of the mini image */
+}
+
+.my-paragraph {
+  color: #ffff; /* Set the desired text color */
+  font-size: 20px; /* Set the desired font size */
+  font-weight: bold;
+}

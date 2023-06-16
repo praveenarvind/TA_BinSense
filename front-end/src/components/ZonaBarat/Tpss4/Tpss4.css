@@ -1,0 +1,16 @@
+.image-container {
+  position: relative;
+  left: 4px;
+  top: -28px;
+}
+
+.content-wrapper {
+  display: flex;
+  align-items: baseline;
+}
+
+.my-paragraph {
+  color: #ffff; /* Set the desired text color */
+  font-size: 20px; /* Set the desired font size */
+  font-weight: bold;
+}

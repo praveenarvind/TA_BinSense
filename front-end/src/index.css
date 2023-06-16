@@ -1,0 +1,21 @@
+:root {
+  --dark-color: #162607;
+  --green-color: #6F8E74;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Georama";
+  background-color: #6F8E74;
+}
+
+.wrapper{
+  max-width: 455px;
+  margin : 0 auto;
+}
